@@ -1,0 +1,33 @@
+﻿<Window x:Class="HostsEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hosts Editor" Height="600" Width="640" WindowStartupLocation="CenterScreen" Background="#FFB9B9B9" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Width" Value="120" />
+            <Setter Property="Height" Value="40" />
+            <Setter Property="Margin" Value="20,0" />
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtEditor" Height="Auto" TextWrapping="NoWrap" Text="TextBox" Width="Auto" AcceptsReturn="True" AcceptsTab="True" Grid.ColumnSpan="2" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" TabIndex="0"/>
+        <Button x:Name="btnSubmit" Grid.Row="1" HorizontalAlignment="Right" Click="btnSubmit_Click">
+            <Label Content="Submit" />
+        </Button>
+        <Button x:Name="btnClose" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Click="btnClose_Click">
+            <Label Content="Close" />
+        </Button>
+    </Grid>
+</Window>

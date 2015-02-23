@@ -1,0 +1,12 @@
+D:\Work\HostsEditor\bin\Release\HostsEditor.exe.config
+D:\Work\HostsEditor\bin\Release\HostsEditor.exe
+D:\Work\HostsEditor\bin\Release\HostsEditor.pdb
+D:\Work\HostsEditor\obj\Release\MainWindow.baml
+D:\Work\HostsEditor\obj\Release\MainWindow.g.cs
+D:\Work\HostsEditor\obj\Release\App.g.cs
+D:\Work\HostsEditor\obj\Release\HostsEditor_MarkupCompile.cache
+D:\Work\HostsEditor\obj\Release\HostsEditor.g.resources
+D:\Work\HostsEditor\obj\Release\HostsEditor.Properties.Resources.resources
+D:\Work\HostsEditor\obj\Release\HostsEditor.csproj.GenerateResource.Cache
+D:\Work\HostsEditor\obj\Release\HostsEditor.exe
+D:\Work\HostsEditor\obj\Release\HostsEditor.pdb

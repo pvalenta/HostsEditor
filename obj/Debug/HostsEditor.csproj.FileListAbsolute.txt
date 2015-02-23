@@ -1,0 +1,13 @@
+D:\Work\HostsEditor\bin\Debug\HostsEditor.exe.config
+D:\Work\HostsEditor\bin\Debug\HostsEditor.exe
+D:\Work\HostsEditor\bin\Debug\HostsEditor.pdb
+D:\Work\HostsEditor\obj\Debug\HostsEditor.csprojResolveAssemblyReference.cache
+D:\Work\HostsEditor\obj\Debug\MainWindow.baml
+D:\Work\HostsEditor\obj\Debug\MainWindow.g.cs
+D:\Work\HostsEditor\obj\Debug\App.g.cs
+D:\Work\HostsEditor\obj\Debug\HostsEditor_MarkupCompile.cache
+D:\Work\HostsEditor\obj\Debug\HostsEditor.g.resources
+D:\Work\HostsEditor\obj\Debug\HostsEditor.Properties.Resources.resources
+D:\Work\HostsEditor\obj\Debug\HostsEditor.csproj.GenerateResource.Cache
+D:\Work\HostsEditor\obj\Debug\HostsEditor.exe
+D:\Work\HostsEditor\obj\Debug\HostsEditor.pdb
